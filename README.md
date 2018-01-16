@@ -10,4 +10,4 @@
 - [Objects](objects.md)
 
 ## Normalization
-Step by step your way through normalizing some data with [UNF](UNF.sql), [1NF](1NF.sql), [2NF](2NF.sql), [3NF](3NF.sql), [BCNF](BCNF.sql), [5NF](5NF.sql), [6NF](6NF.sql)
+Step by step your way through normalizing some data with [UNF](UNFEXAMPLE.sql), [1NF](1NFEXAMPLE.sql), [2NF](2NFEXAMPLE.sql), [3NF](3NFEXAMPLE.sql), [BCNF](BCNFEXAMPLE.sql), [5NF](5NFEXAMPLE.sql), [6NF](6NFEXAMPLE.sql)
