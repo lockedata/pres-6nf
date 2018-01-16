@@ -1,0 +1,3 @@
+[submodule "sisula"]
+	path = sisula
+	url = https://github.com/Roenbaeck/sisula.git
